@@ -1,5 +1,5 @@
 # PyCitySchools
-I have aggregated district-wide standardized test results for Py City Schools to showcase obvious trends in school performance.
+I have aggregated district-wide standardized test results for Py City Schools to showcase trends in school performance.
 
 The notebook includes the following
 1. District Summary
